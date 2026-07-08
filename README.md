@@ -138,11 +138,35 @@ jupyter notebook
 
 ---
 
-## 📊 Sample Visualizations
+## Project Screenshots
 
 ### Movies vs TV Shows
 
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
+---
+
+### Top 10 Countries
+
+![Top Countries](images/top_10_countries.png)
+
+---
+
+### Content Ratings
+
+![Content Ratings](images/content_rating.png)
+
+---
+
+### Release Year Distribution
+
+![Release Year](images/release_year.png)
+
+---
+
+### Movie Duration Distribution
+
+![Movie Duration](images/duration_distribution.png)
 
 ## 👩‍💻 Author
 
