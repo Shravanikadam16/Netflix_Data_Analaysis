@@ -137,36 +137,26 @@ jupyter notebook
 - Business Insight Generation
 
 ---
-
-## Project Screenshots
-
-### Movies vs TV Shows
+## Screenshots
+## Movies vs TV Shows
 
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
----
+## Top 10 Countries
 
-### Top 10 Countries
+![Top Countries](images/top_countries.png)
 
-![Top Countries](images/top_10_countries.png)
+## Content Ratings
 
----
+![Content Ratings](images/rating_distribution.png)
 
-### Content Ratings
+## Top Genres
 
-![Content Ratings](images/content_rating.png)
+![Top Genres](images/top_genres.png)
 
----
+## Content Growth Over the Years
 
-### Release Year Distribution
-
-![Release Year](images/release_year.png)
-
----
-
-### Movie Duration Distribution
-
-![Movie Duration](images/duration_distribution.png)
+![Content Growth](images/content_growth.png)
 
 ## 👩‍💻 Author
 
