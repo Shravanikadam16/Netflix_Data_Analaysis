@@ -139,18 +139,23 @@ jupyter notebook
 ---
 ## Screenshots
 ## Movies vs TV Shows
+
 ![Movies vs TV Shows](images/movies_vs_tvshows.png)
 
 ## Top 10 Countries
+
 ![Top Countries](images/top_countries.png)
 
 ## Content Ratings
+
 ![Content Ratings](images/rating_distribution.png)
 
 ## Top Genres
+
 ![Top Genres](images/top_genres.png)
 
 ## Content Growth Over the Years
+
 ![Content Growth](images/content_growth.png)
 
 ## 👩‍💻 Author
