@@ -138,6 +138,12 @@ jupyter notebook
 
 ---
 
+## 📊 Sample Visualizations
+
+### Movies vs TV Shows
+
+![Movies vs TV Shows](images/movies_vs_tvshows.png)
+
 ## 👩‍💻 Author
 
 **Shravani Kadam**
